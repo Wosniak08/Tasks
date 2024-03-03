@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>atv dev web</title>
+</head>
+<body> 
+    <h1>Galeria de Fotos da Natureza</h1>
+
+    <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNXL9KO_9inXrmNoa5K9WDCLGYPdLZPKLhckK62vZ3m8aT-vM9xq9ew1Tr-0QKDFplnWT_usTVqe_OpfQRsjVSWxYLkdB1O9QBHFzpwhw=w910-h907">
+    <p>Legenda da imagem 1</p>
+
+    <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBO0zMvr2quElNYHJcTSEy_lgDVJhX8dqQR2du00GK_PL_65zkO9gO2b7CpkMZfPRg5gCtRVoUqNXepBuVxSXDwmnoKIDwa4cdoAPZd0Tw=w910-h907" alt="https://lh3.googleusercontent.com/drive-storage/AJQWtBO0zMvr2quElNYHJcTSEy_lgDVJhX8dqQR2du00GK_PL_65zkO9gO2b7CpkMZfPRg5gCtRVoUqNXepBuVxSXDwmnoKIDwa4cdoAPZd0Tw=w910-h907" width="20%" height="30%"> 
+    <p>Legenda da imagem 2. Altura 20% e Largura 30%</p>
+
+    <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNBCv96nERwI0UCci0dPRiML5PCes7Wsc7UR3gMeunbQPQsoO7x4anpH4sdwS9d1PPJpiayc-wkR8fZQpgtoefYXvaW_BFY-H_C9nuJfg=w910-h907" width="200px" height="300px">
+    <p>Legenda da imagem 3. Altura 200px Largura 300px</p>
+</body>
+</html>
